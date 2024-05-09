@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428866661703",
+    "project_id": "messageme-app-8688d",
+    "storage_bucket": "messageme-app-8688d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428866661703:android:263798700ac1ee1af4b062",
+        "android_client_info": {
+          "package_name": "sado.abdo.messageme_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428866661703-hfi0296ct9kcr5r632lpb4raopc371tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ8genvGKLdJ26SYgxIspUrpW3O32DP50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428866661703-hfi0296ct9kcr5r632lpb4raopc371tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
